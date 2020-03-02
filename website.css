@@ -1,0 +1,32 @@
+body {
+   width: 95%;
+   margin: 10px auto;
+}
+
+#bio {
+	<title>Name</title>
+	<img src>
+	<p>Hello World! This is a test to make sure this works!</p>
+}
+
+#shows {
+	<h1>This is the show:</h1>
+	<p>Peppe the pig</p>
+	<p>Frogge the frog</p>
+	<p>Kwali the Koala</p>
+}
+
+#contact {
+	display: flex;
+	flex-direction: row;
+}
+	fb{
+		flex: 0 1 30%
+	}
+	ig{
+		flex: 0 1 40%
+	}
+	tw{
+		flex: 0 1 30%
+	}
+}
